@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A Software engineer and Front End developer from Tunisia.
+  A Software engineer and a Front End developer from Tunisia.
 </p>
 
 <p align='center'> 
