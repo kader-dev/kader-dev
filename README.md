@@ -21,7 +21,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kader-dev&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  [![Abdelkader's github stats](https://github-readme-stats.vercel.app/api?username=kader-dev)](https://github.com/kader-dev)
 </p>
 
 <p align='center'>
