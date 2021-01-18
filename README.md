@@ -20,9 +20,7 @@
   
 </p>
 
-<p align='center'>
-  [![Abdelkader's github stats](https://github-readme-stats.vercel.app/api?username=kader-dev)](https://github.com/kader-dev)
-</p>
+[![Abdelkader's github stats](https://github-readme-stats.vercel.app/api?username=kader-dev)](https://github.com/kader-dev)
 
 <p align='center'>
   💻 My workspace<br/><br/>
