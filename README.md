@@ -20,7 +20,10 @@
   
 </p>
 <br />
+<details>
+  <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-tau-gules.vercel.app/api?username=kader-mb&include_all_commits=true&show_icons=true&hide_border=true" />
+  <details/>
 <br />
 
 ### Languages and Tools:
