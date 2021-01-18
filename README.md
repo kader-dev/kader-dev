@@ -20,7 +20,7 @@
   
 </p>
 <br />
-![Anurag's github stats](https://github-readme-stats-tau-gules.vercel.app/api?username=kader-dev)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats-tau-gules.vercel.app/api?username=kader-dev)(https://github.com/anuraghazra/github-readme-stats)
 <br />
 
 ### Languages and Tools:
